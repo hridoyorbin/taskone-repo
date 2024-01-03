@@ -37,3 +37,61 @@ header{
   width: 90px;
   height: 40px;
 }
+.feature-contant{
+  margin-top: 100px; 
+  text-align: center;
+  font-size: 30px;
+}
+.section-title{
+  font-weight: 700;
+  margin-bottom: 22px;
+}
+.flowers-container{
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  gap: 20px;
+  height: 605px;
+  width: 1440px;
+ margin-left: auto;
+ margin-right: auto;
+ justify-content: center;
+
+ 
+}
+.flower h4 {
+  color: #272727;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+  margin-top: 10px;
+}
+
+.flower-pic-one,.flower-pic-two,.flower-pic-three{
+  display: flex;
+  height: 500px;
+  padding: 30px 30px 0 30px;
+  border-top-left-radius: 175px;
+  border-top-right-radius: 175px;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.flower-pic img {
+  max-width: 250px;
+  
+
+}
+.flower-pic-one {
+    background-color: #F2DEE8;
+}
+
+.flower-pic-two {
+    background-color: #DAF0F1;
+    align-items: center;
+}
+
+.flower-pic-three {
+    background-color: #E4ECDC;
+}
