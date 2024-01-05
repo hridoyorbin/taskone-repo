@@ -220,8 +220,8 @@ footer {
 }
 
 .footer-content {
-  max-width: 800px; /* Set a maximum width for the content */
-  margin: 0 auto; /* Center the content horizontally */
+  max-width: 800px; 
+  margin: 0 auto;
 }
 
 .section-title {
